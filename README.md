@@ -6,4 +6,6 @@ This is a Game, and a Simulation, much like Microsoft Flight Simulator, is also 
 
 I will make videos during the gameplay and will post them on my AM-Tower [YouTube account](https://www.youtube.com/@AM-Tower).
 
+You will find more information on my Wiki, things like [Duplicating a UE5 Plugin](https://github.com/AM-Tower/Lyra-Base/wiki/Duplicating-a-UE5-Plugin).
+
 I am a medically retired United States Air Force Staff Sergeant who knows about the End of Time.
